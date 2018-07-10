@@ -20,7 +20,6 @@ Install *Anaconda3-4.2.0-Windows-x84_64.exe* (Python 3.5.2)
 
 ```
 C:\> pip3 install --upgrade tensorflow-gpu
-
 ```
 
  
