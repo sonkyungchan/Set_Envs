@@ -104,9 +104,8 @@ Site: https://anaconda.org
 	(y)es/(n)o/(q)uit: n
 	```
 	
-	Set Environment variables
-
-	Choose the method 1 or 2
+	Set Environment variables (Choose the method i or ii)
+	
 	1.  Use Terminal
 
 		```bash
