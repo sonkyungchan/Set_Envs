@@ -188,7 +188,7 @@ sudo apt-get install python-pip3 python3-dev # for Python 3.n
 
 ## Validate installation
 
-```ruby
+```{.python}
 import tensorflow as tf
 hello = tf.constant('Hello, TensorFlow!')
 sess = tf.Session()
