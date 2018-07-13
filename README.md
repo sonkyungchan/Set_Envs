@@ -85,7 +85,8 @@ Site: https://anaconda.org
 	```
 	
 	Set Environment variables
-	
+
+	Choose the method 1 or 2
 	1.  Use Terminal
 
 		```
@@ -141,14 +142,14 @@ Site: https://anaconda.org
 	$ sudo apt-get install libcupti-dev
 	```	
 	
-### 2. Installat TensorFlow GPU
+### 2. Install TensorFlow GPU
 
 #### Installation on Anaconda (Not conda environment)
 
 
 1. Install Anaconda3 4.2.0 (Python 3.5.2)
-	1. Download and install [Anaconda3-4.3.0-Linux-x86_64.sh](https://repo.continuum.io/archive/Anaconda3-4.2.0-Linux-x86_64.sh) on Terminal
-
+	Download and install [Anaconda3-4.3.0-Linux-x86_64.sh](https://repo.continuum.io/archive/Anaconda3-4.2.0-Linux-x86_64.sh) on Terminal
+		
 	```
 	$ sudo sh Anaconda3-4.2.0-Linux-x86_64.sh
 	```
@@ -161,7 +162,7 @@ Site: https://anaconda.org
 
 #### Installation on Native Pip
 
-##### Prerequisite
+#### Prerequisite
 
 Python and Pip
 
@@ -186,7 +187,7 @@ sudo apt-get install python-pip3 python3-dev # for Python 3.n
 
 ## Validate installation
 
-```{.python}
+```ruby
 import tensorflow as tf
 hello = tf.constant('Hello, TensorFlow!')
 sess = tf.Session()
