@@ -148,6 +148,7 @@ Site: https://anaconda.org
 
 
 1. Install Anaconda3 4.2.0 (Python 3.5.2)
+
 	Download and install [Anaconda3-4.3.0-Linux-x86_64.sh](https://repo.continuum.io/archive/Anaconda3-4.2.0-Linux-x86_64.sh) on Terminal
 		
 	```
