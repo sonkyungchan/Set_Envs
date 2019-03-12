@@ -201,7 +201,7 @@ $ sudo apt-get install python-pip3 python3-dev # for Python 3.n
 2. If Step 1 failed, install the latest version of TensorFlow
 
 	```bash
-	$ sudo pup3 install --upgrade
+	$ sudo pip3 install --upgrade
 	```
 
 
